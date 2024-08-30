@@ -1,9 +1,6 @@
 - 👋 Oi, sou Leticia
-- 👀 Estou interessada em HTML
+- 👀 Estou interessada em backend
 - 🌱 Estou aprendendo python
 - 😄 Pronouns: ela/dela
 
-<!---
-nymos-bot/nymos-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![anime](https://github.com/user-attachments/assets/45452e4b-0ae8-4a2c-8904-e3b807f1a325)
